@@ -1,0 +1,45 @@
+# Generated files
+node_modules/
+
+
+# Temporary files
+.cache/
+.postcss-cache/
+
+# Build products
+dist/
+
+# Dependency related files
+yarn.lock
+pnpm-lock.yaml
+
+# Editor configs
+.eslintrc.cjs
+postcss.config.js
+tailwind.config.js
+vite.config.j
+
+# Logs and temporary data
+logs/
+tmp/
+
+# IDE specific files
+.idea/
+*.iml
+
+# Miscellaneous files
+.env
+.env.*
+README.md
+LICENSE
+
+# Exclude ignored files from version control
+**/.DS_Store
+
+# Uncomment if using dotenv-expand
+!.env.production
+
+# Uncomment if using any IDE specific files and want them tracked
+.vscode/
+
+# Add any other project-specific exclusions here
