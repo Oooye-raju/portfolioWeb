@@ -1,7 +1,7 @@
 const works = () => {
   return (
     <>
-      <div className="text-center h-auto pt-20 text-gray-700">
+      <div className="text-center h-auto pt-20 text-gray-700" id="work">
         <div className="text-6xl font-thin pb-8">
           <h1>WHAT I&#x27;VE DONE</h1>
         </div>

@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 const experience = () => {
   return (
     <>
-      <div className="text-center pt-24 pb-16">
+      <div className="text-center pt-24 pb-16" id="experience">
         <div className="text-center w-1/2 mx-auto content-center">
           <div className="text-6xl text-gray-700 pb-10 font-light flex justify-center">
             <h1>EXPERIENCE</h1>

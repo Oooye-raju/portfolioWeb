@@ -28,7 +28,7 @@ const Header = () => {
   }, []);
 
   return (
-    <main className="font-mono w-full intro">
+    <main className="font-mono w-full intro" id="page-top">
       <div className="h-screen overflow-hidden">
         <header
           className="flex items-center w-full h-24 sm:h-16 fixed top-0 z-[9999]"
@@ -53,21 +53,21 @@ const Header = () => {
               </div>
 
               <nav className="items-center ml-[73%] text-lg text-gray-800 uppercase font-sen dark:text-white lg:flex float-right ">
-                <a href="#" className="flex px-6 py-2 hover:text-black">
+                <a href="#about" className="flex px-6 py-2 hover:text-black">
                   About
                 </a>
-                <a href="#" className="flex px-6 py-2 hover:text-black">
+                <a href="#passion" className="flex px-6 py-2 hover:text-black">
                   Passion
                 </a>
-                <a href="#" className="flex px-6 py-2 hover:text-black">
+                <a href="#experience" className="flex px-6 py-2 hover:text-black">
                   EXPERIENCE
                 </a>
 
-                <a href="#" className="flex px-6 py-2 hover:text-black">
+                <a href="#work" className="flex px-6 py-2 hover:text-black">
                   works
                 </a>
 
-                <a href="#" className="flex px-6 py-2 hover:text-black">
+                <a href="#contact" className="flex px-6 py-2 hover:text-black">
                   Contact
                 </a>
               </nav>

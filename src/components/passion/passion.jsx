@@ -9,7 +9,7 @@ import "../../App.css";
 const passion = () => {
   return (
     <>
-      <div className="bg-gray-200  text-center px-20 py-20">
+      <div className="bg-gray-200  text-center px-20 py-20" id="passion">
         <div className="text-center text-4xl text-gray-800 font-light p-20 ">
           <h1>WHAT I DO</h1>
         </div>

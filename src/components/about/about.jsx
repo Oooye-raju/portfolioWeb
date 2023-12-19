@@ -10,7 +10,7 @@ const about = () => {
   return (
     <>
   
-      <div className="text-center w-1/2 mx-auto content-center my-20">
+      <div className="text-center w-1/2 mx-auto content-center my-20" id="about">
         <h1 className="text-gray-700 p-10 mb-5 text-center text-4xl font-light ">
           A LITTLE BIT ABOUT ME
         </h1>
